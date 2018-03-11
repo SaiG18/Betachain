@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson_lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/bouncycastle_lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/bcprov"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
